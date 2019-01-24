@@ -2,7 +2,6 @@
 
 ### Instalação:
 
-# brew install doxygen
 - `brew install doxygen`
 
 ### Modo de usar:
